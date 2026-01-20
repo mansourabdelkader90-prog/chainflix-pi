@@ -2139,7 +2139,7 @@ path-root@^0.1.1:
   version "2.0.0"
   resolved "https://codeload.github.com/pi-apps/pi-sdk-react/tar.gz/28fc80592a42d1dce8545f9703181b189bd7ae45"
   dependencies:
-    pi-sdk-js "file:../AppData/Local/Yarn/Cache/v6/npm-pi-sdk-react-2.0.0-28fc80592a42d1dce8545f9703181b189bd7ae45/node_modules/js-base"
+    pi-sdk-js "file:../../AppData/Local/Yarn/Cache/v6/npm-pi-sdk-react-2.0.0-28fc80592a42d1dce8545f9703181b189bd7ae45/node_modules/js-base"
     plop "^4.0.0"
 
 picocolors@^1.0.0, picocolors@^1.1.1:
